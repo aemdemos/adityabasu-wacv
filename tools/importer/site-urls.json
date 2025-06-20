@@ -1,0 +1,140 @@
+{
+  "originUrl": "https://wacv2025.thecvf.com",
+  "lastCrawled": "https://wacv2025.thecvf.com/",
+  "urls": [
+    {
+      "url": "https://wacv2025.thecvf.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "source": "SITEMAPS",
+      "targetPath": "/become-a-sponsor",
+      "id": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/doctoral-consortium/",
+      "source": "SITEMAPS",
+      "targetPath": "/doctoral-consortium",
+      "id": "ea5905d8496671f2a583e19d962a20b78dca47eb"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+      "source": "SITEMAPS",
+      "targetPath": "/keynote-speakers",
+      "id": "052756487d45a7f457912ad3b23b44c7d9cbd538"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/organizers/",
+      "source": "SITEMAPS",
+      "targetPath": "/organizers",
+      "id": "13993fc6897f806a19255e3509a8738a596e7bf2"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/policies/",
+      "source": "SITEMAPS",
+      "targetPath": "/policies",
+      "id": "0585c9e2d47c7244ca1f20a3898ca1448f6ac93d"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "source": "SITEMAPS",
+      "targetPath": "/program",
+      "id": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "source": "SITEMAPS",
+      "targetPath": "/registration",
+      "id": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/reviewers/",
+      "source": "SITEMAPS",
+      "targetPath": "/reviewers",
+      "id": "d68361a243c9cf0c1a019c09b6f84a0845c9d28b"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/sponsors/",
+      "source": "SITEMAPS",
+      "targetPath": "/sponsors",
+      "id": "314f6c1c5579a21357042f97450c9a8ca839e284"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions",
+      "id": "fa2392eef2b4d7a4e41e108f3ffb1d53c899642a"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-faq/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/author-faq",
+      "id": "c62a5012d7481d1d40213450c96c9fc42d19aa00"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-guidelines/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/author-guidelines",
+      "id": "ae371995eb57d9fd5f6bc5feb5a4138e64b20cc2"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/author-instructions",
+      "id": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-demos/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/call-for-demos",
+      "id": "67dc8ca819db43aac91c74f6263cdddd8ecf4c94"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-tutorial-proposals/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/call-for-tutorial-proposals",
+      "id": "68957d188d119a3e9df4dc69098ad43340e99004"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-workshops/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/call-for-workshops",
+      "id": "a5990137b9b2f47d4d970ca9bf9cd466d6ec946a"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/reviewer-guidelines/",
+      "source": "SITEMAPS",
+      "targetPath": "/submissions/reviewer-guidelines",
+      "id": "4e29b9a3ce993b3cb0088225edc1431f515efc03"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/venue/",
+      "source": "SITEMAPS",
+      "targetPath": "/venue",
+      "id": "eaae181c50edcf8b59a6ab2e162ff29618323c56"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/workshops/",
+      "source": "SITEMAPS",
+      "targetPath": "/workshops",
+      "id": "a289d4aa345d1e1c92915fd2f9f8a0ff764a8434"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
