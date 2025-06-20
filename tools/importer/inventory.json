@@ -1,0 +1,1143 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+          "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+          "uuid": "05275648-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/policies/",
+          "urlHash": "0585c9e2d47c7244ca1f20a3898ca1448f6ac93d",
+          "uuid": "0585c9e2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/organizers/",
+          "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+          "uuid": "13993fc6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/sponsors/",
+          "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+          "uuid": "314f6c1c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/reviewer-guidelines/",
+          "urlHash": "4e29b9a3ce993b3cb0088225edc1431f515efc03",
+          "uuid": "4e29b9a3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-demos/",
+          "urlHash": "67dc8ca819db43aac91c74f6263cdddd8ecf4c94",
+          "uuid": "67dc8ca8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-tutorial-proposals/",
+          "urlHash": "68957d188d119a3e9df4dc69098ad43340e99004",
+          "uuid": "68957d18-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/workshops/",
+          "urlHash": "a289d4aa345d1e1c92915fd2f9f8a0ff764a8434",
+          "uuid": "a289d4aa-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-workshops/",
+          "urlHash": "a5990137b9b2f47d4d970ca9bf9cd466d6ec946a",
+          "uuid": "a5990137-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-guidelines/",
+          "urlHash": "ae371995eb57d9fd5f6bc5feb5a4138e64b20cc2",
+          "uuid": "ae371995-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/program/",
+          "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+          "uuid": "c3b8517d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-faq/",
+          "urlHash": "c62a5012d7481d1d40213450c96c9fc42d19aa00",
+          "uuid": "c62a5012-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/reviewers/",
+          "urlHash": "d68361a243c9cf0c1a019c09b6f84a0845c9d28b",
+          "uuid": "d68361a2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/",
+          "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+          "uuid": "e071ebc7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+          "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+          "uuid": "e1f3abce-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/doctoral-consortium/",
+          "urlHash": "ea5905d8496671f2a583e19d962a20b78dca47eb",
+          "uuid": "ea5905d8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/venue/",
+          "urlHash": "eaae181c50edcf8b59a6ab2e162ff29618323c56",
+          "uuid": "eaae181c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+          "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+          "uuid": "f5a21bd5-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/",
+          "urlHash": "fa2392eef2b4d7a4e41e108f3ffb1d53c899642a",
+          "uuid": "fa2392ee-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/registration/",
+          "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+          "uuid": "fe7b5c19-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+          "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+          "uuid": "05275648-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/policies/",
+          "urlHash": "0585c9e2d47c7244ca1f20a3898ca1448f6ac93d",
+          "uuid": "0585c9e2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/organizers/",
+          "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+          "uuid": "13993fc6-05-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/sponsors/",
+          "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+          "uuid": "314f6c1c-07-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/reviewer-guidelines/",
+          "urlHash": "4e29b9a3ce993b3cb0088225edc1431f515efc03",
+          "uuid": "4e29b9a3-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-demos/",
+          "urlHash": "67dc8ca819db43aac91c74f6263cdddd8ecf4c94",
+          "uuid": "67dc8ca8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-tutorial-proposals/",
+          "urlHash": "68957d188d119a3e9df4dc69098ad43340e99004",
+          "uuid": "68957d18-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/workshops/",
+          "urlHash": "a289d4aa345d1e1c92915fd2f9f8a0ff764a8434",
+          "uuid": "a289d4aa-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-workshops/",
+          "urlHash": "a5990137b9b2f47d4d970ca9bf9cd466d6ec946a",
+          "uuid": "a5990137-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-guidelines/",
+          "urlHash": "ae371995eb57d9fd5f6bc5feb5a4138e64b20cc2",
+          "uuid": "ae371995-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/program/",
+          "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+          "uuid": "c3b8517d-32-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-faq/",
+          "urlHash": "c62a5012d7481d1d40213450c96c9fc42d19aa00",
+          "uuid": "c62a5012-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/reviewers/",
+          "urlHash": "d68361a243c9cf0c1a019c09b6f84a0845c9d28b",
+          "uuid": "d68361a2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/",
+          "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+          "uuid": "e071ebc7-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+          "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+          "uuid": "e1f3abce-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/doctoral-consortium/",
+          "urlHash": "ea5905d8496671f2a583e19d962a20b78dca47eb",
+          "uuid": "ea5905d8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/venue/",
+          "urlHash": "eaae181c50edcf8b59a6ab2e162ff29618323c56",
+          "uuid": "eaae181c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+          "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+          "uuid": "f5a21bd5-08-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/",
+          "urlHash": "fa2392eef2b4d7a4e41e108f3ffb1d53c899642a",
+          "uuid": "fa2392ee-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/registration/",
+          "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+          "uuid": "fe7b5c19-20-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+          "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+          "uuid": "05275648-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/policies/",
+          "urlHash": "0585c9e2d47c7244ca1f20a3898ca1448f6ac93d",
+          "uuid": "0585c9e2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/organizers/",
+          "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+          "uuid": "13993fc6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/sponsors/",
+          "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+          "uuid": "314f6c1c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/reviewer-guidelines/",
+          "urlHash": "4e29b9a3ce993b3cb0088225edc1431f515efc03",
+          "uuid": "4e29b9a3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-demos/",
+          "urlHash": "67dc8ca819db43aac91c74f6263cdddd8ecf4c94",
+          "uuid": "67dc8ca8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-tutorial-proposals/",
+          "urlHash": "68957d188d119a3e9df4dc69098ad43340e99004",
+          "uuid": "68957d18-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/workshops/",
+          "urlHash": "a289d4aa345d1e1c92915fd2f9f8a0ff764a8434",
+          "uuid": "a289d4aa-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/call-for-workshops/",
+          "urlHash": "a5990137b9b2f47d4d970ca9bf9cd466d6ec946a",
+          "uuid": "a5990137-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-guidelines/",
+          "urlHash": "ae371995eb57d9fd5f6bc5feb5a4138e64b20cc2",
+          "uuid": "ae371995-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/program/",
+          "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+          "uuid": "c3b8517d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-faq/",
+          "urlHash": "c62a5012d7481d1d40213450c96c9fc42d19aa00",
+          "uuid": "c62a5012-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/reviewers/",
+          "urlHash": "d68361a243c9cf0c1a019c09b6f84a0845c9d28b",
+          "uuid": "d68361a2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/",
+          "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+          "uuid": "e071ebc7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+          "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+          "uuid": "e1f3abce-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/doctoral-consortium/",
+          "urlHash": "ea5905d8496671f2a583e19d962a20b78dca47eb",
+          "uuid": "ea5905d8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/venue/",
+          "urlHash": "eaae181c50edcf8b59a6ab2e162ff29618323c56",
+          "uuid": "eaae181c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+          "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+          "uuid": "f5a21bd5-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/",
+          "urlHash": "fa2392eef2b4d7a4e41e108f3ffb1d53c899642a",
+          "uuid": "fa2392ee-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/registration/",
+          "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+          "uuid": "fe7b5c19-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/program/",
+          "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+          "uuid": "c3b8517d-30-fbefd56cdeb2f6e629082ebafb6c965eeb62c712",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/program/",
+          "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+          "uuid": "c3b8517d-31-fa0ff8e02a6a560a9a674bddf7c79fd34c24cb48",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+          "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+          "uuid": "05275648-02-184c5aca2774def7b899353e4cec79e93e39ea8f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://wacv2025.thecvf.com/program/",
+          "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+          "uuid": "c3b8517d-29-0db6e5939859b245ad8200884fdd2b4813f2d5fe",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 4,
+      "source": "Table (bordered)",
+      "target": "Table (bordered)",
+      "key": "tableBordered4",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+          "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+          "uuid": "e1f3abce-02-e0f6f277eb05d4db2c71d79b0261dda7c1449915",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/sponsors/",
+          "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+          "uuid": "314f6c1c-03-e4c7f5d0647b060fe5c10517efa177e5d64f7a84",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+          "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+          "uuid": "05275648-03-0ff968776b314fb8d498cf791ce3ec7cedc9f2f2",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 7,
+      "key": "hero7",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/",
+          "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+          "uuid": "e071ebc7-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/sponsors/",
+          "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+          "uuid": "314f6c1c-05-05bfbe9622c7319225ac78aeec1c47dac8325a95",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/organizers/",
+          "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+          "uuid": "13993fc6-02-764deff5da11c1e63c49829d6eef5b2e52084cea",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+          "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+          "uuid": "f5a21bd5-04-c6d9788e938a9d5252ae90235980902b7d68d233",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 11,
+      "source": "Cards",
+      "target": "Cards (cards11)",
+      "key": "cards11",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/organizers/",
+          "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+          "uuid": "13993fc6-03-5a206992060c7d4ab23865ac17db680aab462cfa",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/",
+          "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+          "uuid": "e071ebc7-02-45ae101f9cbb00d32b50857ee66be73eabdf0ecb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://wacv2025.thecvf.com/",
+          "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+          "uuid": "e071ebc7-03-bc37893d2821db124e3ad5f5171538f5ae3fbed7",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[3]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+      "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+      "uuid": "05275648-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/keynote-speakers/",
+      "urlHash": "052756487d45a7f457912ad3b23b44c7d9cbd538",
+      "uuid": "05275648-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/policies/",
+      "urlHash": "0585c9e2d47c7244ca1f20a3898ca1448f6ac93d",
+      "uuid": "0585c9e2-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/policies/",
+      "urlHash": "0585c9e2d47c7244ca1f20a3898ca1448f6ac93d",
+      "uuid": "0585c9e2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/organizers/",
+      "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+      "uuid": "13993fc6-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/organizers/",
+      "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+      "uuid": "13993fc6-04-45ae101f9cbb00d32b50857ee66be73eabdf0ecb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/organizers/",
+      "urlHash": "13993fc6897f806a19255e3509a8738a596e7bf2",
+      "uuid": "13993fc6-05-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/sponsors/",
+      "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+      "uuid": "314f6c1c-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/sponsors/",
+      "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+      "uuid": "314f6c1c-02-107b1aadf046b49c290435923781d30a1dd51beb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/sponsors/",
+      "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+      "uuid": "314f6c1c-04-c6d9788e938a9d5252ae90235980902b7d68d233",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[3]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/sponsors/",
+      "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+      "uuid": "314f6c1c-06-05251c084f19d40e1b158a9c6b0703520fd5df29",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/sponsors/",
+      "urlHash": "314f6c1c5579a21357042f97450c9a8ca839e284",
+      "uuid": "314f6c1c-07-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/reviewer-guidelines/",
+      "urlHash": "4e29b9a3ce993b3cb0088225edc1431f515efc03",
+      "uuid": "4e29b9a3-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/reviewer-guidelines/",
+      "urlHash": "4e29b9a3ce993b3cb0088225edc1431f515efc03",
+      "uuid": "4e29b9a3-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-demos/",
+      "urlHash": "67dc8ca819db43aac91c74f6263cdddd8ecf4c94",
+      "uuid": "67dc8ca8-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-demos/",
+      "urlHash": "67dc8ca819db43aac91c74f6263cdddd8ecf4c94",
+      "uuid": "67dc8ca8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-tutorial-proposals/",
+      "urlHash": "68957d188d119a3e9df4dc69098ad43340e99004",
+      "uuid": "68957d18-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-tutorial-proposals/",
+      "urlHash": "68957d188d119a3e9df4dc69098ad43340e99004",
+      "uuid": "68957d18-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/workshops/",
+      "urlHash": "a289d4aa345d1e1c92915fd2f9f8a0ff764a8434",
+      "uuid": "a289d4aa-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/workshops/",
+      "urlHash": "a289d4aa345d1e1c92915fd2f9f8a0ff764a8434",
+      "uuid": "a289d4aa-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-workshops/",
+      "urlHash": "a5990137b9b2f47d4d970ca9bf9cd466d6ec946a",
+      "uuid": "a5990137-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/call-for-workshops/",
+      "urlHash": "a5990137b9b2f47d4d970ca9bf9cd466d6ec946a",
+      "uuid": "a5990137-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-guidelines/",
+      "urlHash": "ae371995eb57d9fd5f6bc5feb5a4138e64b20cc2",
+      "uuid": "ae371995-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-guidelines/",
+      "urlHash": "ae371995eb57d9fd5f6bc5feb5a4138e64b20cc2",
+      "uuid": "ae371995-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-02-942abc9baf1b07bfddb9705eee4959ca200cb041",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-03-4c44a67b599e21960259c895b7cec0436cc4c8bb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-04-c126247917934c8eae62a027f09e47bff2bc6431",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-05-a0d62af303f15b525c5e418f412cb1b4f19e609e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-06-3624fe201423d5ce1f3843a36639c9fa351d8bbd",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-07-e83d4c881f4d07affa3fe1b223ed82781e7c8c77",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-08-57be4b6f6bff383acdbf3ba729000e6eb6d6bf83",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-09-d68495b8b7bcff4c5099c2b0bb63cb75a49e4719",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[6]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-10-860b22597bd37c21807b33383e38ee39940976c9",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-11-c2fc785efb9a0392418731fa2700e57fa9ad5825",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-12-7b350a936fb70ae7dac6db0d628bb6a8c55ac4b6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-13-6062c2f1fc651b598fc19332607824e8f34dfc29",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-14-9835fb4ba968c9a5c36e599f0c8a653bf625a6f6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-15-bf4ace2c541cdd8419c445e42b9f730a21676d0a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-16-98301d1d8765813f1dae9a4bbca5cb87caec7ca4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-17-c2ec71be29274050d0e0317020611d5acb406b5a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-18-dde015e4717c2becd1e0575e36c96be7e4e1b4a3",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-19-024097ca48f430dda68ba38ea3701ea5f4d28f4e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-20-8bde1c87a2d1ac7bb127704f25403aa676e7c405",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[17]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-21-3bad712646b128f3bff469ca54e1f2f1c9b1b02d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[18]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-22-0605b577fd029a6ae99ee1727f16c8d212ba9eb1",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[19]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-23-16293acc631034b53af19033760f26dec7ebb9cf",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[20]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-24-d3da7ab905fe822c766e05e42ed387d8c5da3e38",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/h1[2]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-25-3b80a743c5518508daceb6625f63f0ac22e0fc18",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[21]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-26-a199079edef827f2b8af960ea85ac87667ec692d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/h1[3]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-27-81ecd3a17deb57605a4a25ac2deecd6a827f5244",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/table[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-28-f5c54314de96258ac1c75f6c4240c475f04b8800",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/program/",
+      "urlHash": "c3b8517d906c35b5ea1e0b51f57cd99be18e09ac",
+      "uuid": "c3b8517d-32-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-faq/",
+      "urlHash": "c62a5012d7481d1d40213450c96c9fc42d19aa00",
+      "uuid": "c62a5012-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-faq/",
+      "urlHash": "c62a5012d7481d1d40213450c96c9fc42d19aa00",
+      "uuid": "c62a5012-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/reviewers/",
+      "urlHash": "d68361a243c9cf0c1a019c09b6f84a0845c9d28b",
+      "uuid": "d68361a2-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/reviewers/",
+      "urlHash": "d68361a243c9cf0c1a019c09b6f84a0845c9d28b",
+      "uuid": "d68361a2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/",
+      "urlHash": "e071ebc7ef1222d9de14ee16beaa19b4a0d84261",
+      "uuid": "e071ebc7-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+      "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+      "uuid": "e1f3abce-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+      "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+      "uuid": "e1f3abce-03-f5c54314de96258ac1c75f6c4240c475f04b8800",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/author-instructions/",
+      "urlHash": "e1f3abce8a9d55056042c1ffbfec0cc8b369b27f",
+      "uuid": "e1f3abce-04-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/doctoral-consortium/",
+      "urlHash": "ea5905d8496671f2a583e19d962a20b78dca47eb",
+      "uuid": "ea5905d8-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/doctoral-consortium/",
+      "urlHash": "ea5905d8496671f2a583e19d962a20b78dca47eb",
+      "uuid": "ea5905d8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/venue/",
+      "urlHash": "eaae181c50edcf8b59a6ab2e162ff29618323c56",
+      "uuid": "eaae181c-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/venue/",
+      "urlHash": "eaae181c50edcf8b59a6ab2e162ff29618323c56",
+      "uuid": "eaae181c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-02-107b1aadf046b49c290435923781d30a1dd51beb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-03-e4c7f5d0647b060fe5c10517efa177e5d64f7a84",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[2]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-05-05bfbe9622c7319225ac78aeec1c47dac8325a95",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[4]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-06-05251c084f19d40e1b158a9c6b0703520fd5df29",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[5]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-07-92e9baf281e0b4ad115a33687cb2d7978ec0f822",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[6]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/become-a-sponsor/",
+      "urlHash": "f5a21bd53b27c4ac60992c8611a67bccf43a62c1",
+      "uuid": "f5a21bd5-08-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/",
+      "urlHash": "fa2392eef2b4d7a4e41e108f3ffb1d53c899642a",
+      "uuid": "fa2392ee-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/submissions/",
+      "urlHash": "fa2392eef2b4d7a4e41e108f3ffb1d53c899642a",
+      "uuid": "fa2392ee-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-01-6e3ca3be7d086abaf1cd59b3e9b1faafc4271948",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-02-4c44a67b599e21960259c895b7cec0436cc4c8bb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-03-c126247917934c8eae62a027f09e47bff2bc6431",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[2]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-04-3624fe201423d5ce1f3843a36639c9fa351d8bbd",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[3]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-05-e83d4c881f4d07affa3fe1b223ed82781e7c8c77",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[4]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-06-57be4b6f6bff383acdbf3ba729000e6eb6d6bf83",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[5]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-07-81ecd3a17deb57605a4a25ac2deecd6a827f5244",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/table[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-08-cd69c369c062f70dcecfd7548f8b174e5cfc79ae",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/table[2]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-09-860b22597bd37c21807b33383e38ee39940976c9",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[7]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-10-c2fc785efb9a0392418731fa2700e57fa9ad5825",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[8]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-11-7b350a936fb70ae7dac6db0d628bb6a8c55ac4b6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[9]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-12-6062c2f1fc651b598fc19332607824e8f34dfc29",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[10]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-13-9835fb4ba968c9a5c36e599f0c8a653bf625a6f6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[11]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-14-bf4ace2c541cdd8419c445e42b9f730a21676d0a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[12]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-15-98301d1d8765813f1dae9a4bbca5cb87caec7ca4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[13]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-16-c2ec71be29274050d0e0317020611d5acb406b5a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[14]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-17-dde015e4717c2becd1e0575e36c96be7e4e1b4a3",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[15]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-18-024097ca48f430dda68ba38ea3701ea5f4d28f4e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/p[16]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-19-1a07672e7b71d8cf71d5c1361bfd5b074237b1d2",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/section[2]/div[2]/div[1]/div[1]/div[1]/ol[1]"
+    },
+    {
+      "url": "https://wacv2025.thecvf.com/registration/",
+      "urlHash": "fe7b5c19ba5f3404f23dd09894a95d8a1b599e48",
+      "uuid": "fe7b5c19-20-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+    }
+  ]
+}
